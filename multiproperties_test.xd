@@ -1,0 +1,15 @@
+
+# comentario xd
+		
+nombre = Luis
+apellido = Rodriguez
+sql := select *
+	from data
+	base;
+
+mascota = perico
+# commentario
+
+sql2 := caca
+	huate
+	xd
